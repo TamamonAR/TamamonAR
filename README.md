@@ -3,6 +3,7 @@
 This was created during our time as students at Code Chrysalis.
 
 ![Cat](js/res/images/icons/cat-1.png)
+<img src="js/res/PotemonAR.png" width="２００">
 
 Tamamon is an interactive augmented reality game for collecting Tamamon that combines the best of Pokemon Go and Tamagotchi.
 
