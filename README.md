@@ -11,7 +11,11 @@ Tamamon allows you to interact with your Tamamon by feeding, playing and washing
 
 If you want to buy more Tamamon, head to the store and use your hard earned in-game currency to expand your collection.
 
-## Link to App store
+## Download it on the App Store:
+
+<a href="https://apps.apple.com/us/app/tamamon-ar/id1503454018" rel="App Store link">
+   <img src="https://user-images.githubusercontent.com/54801345/77502486-5a792b80-6e9e-11ea-89f2-a7e591575ef0.png" width="250" />
+</a>
 
 # Created by:
 
